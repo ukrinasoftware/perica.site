@@ -1,0 +1,42 @@
+{
+    "app": {
+        "path": "\/assets\/app-381e70df57963d04c1db493d600f55f9.js",
+        "type": "js"
+    },
+    "lightbox": {
+        "path": "\/assets\/lightbox-b139591b7eaaff56f4e805802d9dad21.js",
+        "type": "js"
+    },
+    "@hotwired\/stimulus": {
+        "path": "\/assets\/vendor\/@hotwired\/stimulus\/stimulus.index-b5b1d00e42695b8959b4a1e94e3bc92a.js",
+        "type": "js"
+    },
+    "@fortawesome\/fontawesome-free\/css\/fontawesome.min.css": {
+        "path": "\/assets\/vendor\/@fortawesome\/fontawesome-free\/css\/fontawesome.min-f6f539c9c4f2ec2524bd158a4600e4bd.css",
+        "type": "css"
+    },
+    "flowbite": {
+        "path": "\/assets\/vendor\/flowbite\/flowbite.index-d741c4d5a61d65b119c84d13de93e5bf.js",
+        "type": "js"
+    },
+    "@popperjs\/core": {
+        "path": "\/assets\/vendor\/@popperjs\/core\/core.index-ceb5b6c0f9e1d3f6c78ef733facfdcda.js",
+        "type": "js"
+    },
+    "flowbite\/dist\/flowbite.min.css": {
+        "path": "\/assets\/vendor\/flowbite\/dist\/flowbite.min-ed2ec0eed5b8565e5ac404561d376c99.css",
+        "type": "css"
+    },
+    "photoswipe\/dist\/photoswipe.min.css": {
+        "path": "\/assets\/vendor\/photoswipe\/dist\/photoswipe.min-83214025b33f0e8d18929aabf675df33.css",
+        "type": "css"
+    },
+    "photoswipe\/dist\/photoswipe-lightbox.esm.min.js": {
+        "path": "\/assets\/vendor\/photoswipe\/dist\/photoswipe-lightbox.esm.min-c9ce9061e75b13f7cabaca52b8bb0459.js",
+        "type": "js"
+    },
+    "photoswipe\/dist\/photoswipe.esm.min.js": {
+        "path": "\/assets\/vendor\/photoswipe\/dist\/photoswipe.esm.min-faa7698e9fce6d02a1f626f272ccb026.js",
+        "type": "js"
+    }
+}
