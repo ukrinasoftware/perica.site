@@ -1,6 +1,6 @@
 {
     "app": {
-        "path": "\/assets\/app-381e70df57963d04c1db493d600f55f9.js",
+        "path": "\/assets\/app-64b16dfd1975d2f4653025f2b191af4e.js",
         "type": "js"
     },
     "lightbox": {
@@ -10,10 +10,6 @@
     "@hotwired\/stimulus": {
         "path": "\/assets\/vendor\/@hotwired\/stimulus\/stimulus.index-b5b1d00e42695b8959b4a1e94e3bc92a.js",
         "type": "js"
-    },
-    "@fortawesome\/fontawesome-free\/css\/fontawesome.min.css": {
-        "path": "\/assets\/vendor\/@fortawesome\/fontawesome-free\/css\/fontawesome.min-f6f539c9c4f2ec2524bd158a4600e4bd.css",
-        "type": "css"
     },
     "flowbite": {
         "path": "\/assets\/vendor\/flowbite\/flowbite.index-d741c4d5a61d65b119c84d13de93e5bf.js",
@@ -37,6 +33,14 @@
     },
     "photoswipe\/dist\/photoswipe.esm.min.js": {
         "path": "\/assets\/vendor\/photoswipe\/dist\/photoswipe.esm.min-faa7698e9fce6d02a1f626f272ccb026.js",
+        "type": "js"
+    },
+    "cookieconsent\/build\/cookieconsent.min.css": {
+        "path": "\/assets\/vendor\/cookieconsent\/build\/cookieconsent.min-858249d18958b10822b3f25b04ceb59f.css",
+        "type": "css"
+    },
+    "cookieconsent": {
+        "path": "\/assets\/vendor\/cookieconsent\/cookieconsent.index-92dbaf716da952229e36f3c2556cf58a.js",
         "type": "js"
     }
 }

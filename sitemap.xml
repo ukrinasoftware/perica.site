@@ -1,43 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-            <url>
-            <loc>https://perica.site/</loc>
-            <lastmod>2024-03-12T09:47:31+00:00</lastmod>            <priority>0</priority>            <changefreq>monthly</changefreq>
-        </url>
-            <url>
-            <loc>https://perica.site/en/</loc>
-            <lastmod>2024-03-12T09:47:31+00:00</lastmod>                        <changefreq>monthly</changefreq>
-        </url>
-            <url>
-            <loc>https://perica.site/en/sukosan</loc>
-            <lastmod>2024-03-12T09:47:31+00:00</lastmod>                        <changefreq>monthly</changefreq>
-        </url>
-            <url>
-            <loc>https://perica.site/en/zadar</loc>
-            <lastmod>2024-03-12T09:47:31+00:00</lastmod>                        <changefreq>monthly</changefreq>
-        </url>
-            <url>
-            <loc>https://perica.site/hr/</loc>
-            <lastmod>2024-03-12T09:47:31+00:00</lastmod>                        <changefreq>monthly</changefreq>
-        </url>
-            <url>
-            <loc>https://perica.site/hr/sukosan</loc>
-            <lastmod>2024-03-12T09:47:31+00:00</lastmod>                        <changefreq>monthly</changefreq>
-        </url>
-            <url>
-            <loc>https://perica.site/hr/zadar</loc>
-            <lastmod>2024-03-12T09:47:31+00:00</lastmod>                        <changefreq>monthly</changefreq>
-        </url>
-            <url>
-            <loc>https://perica.site/nl/</loc>
-            <lastmod>2024-03-12T09:47:31+00:00</lastmod>                        <changefreq>monthly</changefreq>
-        </url>
-            <url>
-            <loc>https://perica.site/nl/sukosan</loc>
-            <lastmod>2024-03-12T09:47:31+00:00</lastmod>                        <changefreq>monthly</changefreq>
-        </url>
-            <url>
-            <loc>https://perica.site/nl/zadar</loc>
-            <lastmod>2024-03-12T09:47:31+00:00</lastmod>                        <changefreq>monthly</changefreq>
-        </url>
-    </urlset>
+    <url>
+        <loc>https://perica.site/</loc>
+        <lastmod>2024-03-12T12:26:04+00:00</lastmod>
+        <priority>0</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/en/</loc>
+        <lastmod>2024-03-12T12:26:04+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/en/sukosan</loc>
+        <lastmod>2024-03-12T12:26:04+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/en/zadar</loc>
+        <lastmod>2024-03-12T12:26:04+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/hr/</loc>
+        <lastmod>2024-03-12T12:26:04+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/hr/sukosan</loc>
+        <lastmod>2024-03-12T12:26:04+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/hr/zadar</loc>
+        <lastmod>2024-03-12T12:26:04+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/nl/</loc>
+        <lastmod>2024-03-12T12:26:04+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/nl/sukosan</loc>
+        <lastmod>2024-03-12T12:26:04+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/nl/zadar</loc>
+        <lastmod>2024-03-12T12:26:04+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+</urlset>

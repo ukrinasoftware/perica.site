@@ -1241,6 +1241,10 @@ input:checked + .toggle-bg {
   display: grid;
 }
 
+.list-item {
+  display: list-item;
+}
+
 .hidden {
   display: none;
 }
