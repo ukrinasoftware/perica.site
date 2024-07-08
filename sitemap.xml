@@ -2,53 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://perica.site/</loc>
-        <lastmod>2024-07-06T15:46:09+00:00</lastmod>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
         <priority>0</priority>
         <changefreq>monthly</changefreq>
     </url>
     <url>
+        <loc>https://perica.site/en/apartments</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/hr/apartmani</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/nl/appartementen</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/en/sightseeing</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/hr/razgledovanje</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/nl/bezienswaardigheden</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/en/contact</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/hr/kontakt</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/nl/contact</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/en/about-us</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/hr/o-nama</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/nl/over-ons</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/en/prices</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/hr/cijenik</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://perica.site/nl/prijzen</loc>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
         <loc>https://perica.site/en/</loc>
-        <lastmod>2024-07-06T15:46:09+00:00</lastmod>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://perica.site/en/sukosan</loc>
-        <lastmod>2024-07-06T15:46:09+00:00</lastmod>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://perica.site/en/zadar</loc>
-        <lastmod>2024-07-06T15:46:09+00:00</lastmod>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://perica.site/hr/</loc>
-        <lastmod>2024-07-06T15:46:09+00:00</lastmod>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://perica.site/hr/sukosan</loc>
-        <lastmod>2024-07-06T15:46:09+00:00</lastmod>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://perica.site/hr/zadar</loc>
-        <lastmod>2024-07-06T15:46:09+00:00</lastmod>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://perica.site/nl/</loc>
-        <lastmod>2024-07-06T15:46:09+00:00</lastmod>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://perica.site/nl/sukosan</loc>
-        <lastmod>2024-07-06T15:46:09+00:00</lastmod>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://perica.site/nl/zadar</loc>
-        <lastmod>2024-07-06T15:46:09+00:00</lastmod>
+        <lastmod>2024-07-08T09:20:07+00:00</lastmod>
         <changefreq>monthly</changefreq>
     </url>
 </urlset>
