@@ -1410,7 +1410,7 @@
     "images\/zadar\/zadar-yachts.webp": "\/assets\/images\/zadar\/zadar-yachts-b6ed18b1dd2c6ed6a31da4d112e33ece.webp",
     "lightbox.js": "\/assets\/lightbox-b139591b7eaaff56f4e805802d9dad21.js",
     "osano.min.js": "\/assets\/osano.min-4d2c048b12e815d24ec2bef733b2dfd2.js",
-    "styles\/app.css": "\/assets\/styles\/app-bc0f5d2967b81cce36183c1bcc7eb8e7.css",
+    "styles\/app.css": "\/assets\/styles\/app-bbdf055ea526911a27abfbd4e6203fd8.css",
     "vendor\/@hotwired\/stimulus\/stimulus.index.js": "\/assets\/vendor\/@hotwired\/stimulus\/stimulus.index-b5b1d00e42695b8959b4a1e94e3bc92a.js",
     "vendor\/@popperjs\/core\/core.index.js": "\/assets\/vendor\/@popperjs\/core\/core.index-ceb5b6c0f9e1d3f6c78ef733facfdcda.js",
     "vendor\/cookieconsent\/build\/cookieconsent.min.css": "\/assets\/vendor\/cookieconsent\/build\/cookieconsent.min-858249d18958b10822b3f25b04ceb59f.css",
@@ -1419,5 +1419,7 @@
     "vendor\/flowbite\/flowbite.index.js": "\/assets\/vendor\/flowbite\/flowbite.index-d741c4d5a61d65b119c84d13de93e5bf.js",
     "vendor\/photoswipe\/dist\/photoswipe-lightbox.esm.min.js": "\/assets\/vendor\/photoswipe\/dist\/photoswipe-lightbox.esm.min-c9ce9061e75b13f7cabaca52b8bb0459.js",
     "vendor\/photoswipe\/dist\/photoswipe.esm.min.js": "\/assets\/vendor\/photoswipe\/dist\/photoswipe.esm.min-faa7698e9fce6d02a1f626f272ccb026.js",
-    "vendor\/photoswipe\/dist\/photoswipe.min.css": "\/assets\/vendor\/photoswipe\/dist\/photoswipe.min-83214025b33f0e8d18929aabf675df33.css"
+    "vendor\/photoswipe\/dist\/photoswipe.min.css": "\/assets\/vendor\/photoswipe\/dist\/photoswipe.min-83214025b33f0e8d18929aabf675df33.css",
+    "yaml\/accommodations.yaml": "\/assets\/yaml\/accommodations-a507440a3c6c6cc1a494ccb74d9ffbcb.yaml",
+    "yaml\/reviews.yaml": "\/assets\/yaml\/reviews-c3f448a7190071d8baa1bad8b45ee617.yaml"
 }
