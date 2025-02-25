@@ -1,7 +1,11 @@
 {
     "app": {
-        "path": "\/assets\/app-64b16dfd1975d2f4653025f2b191af4e.js",
+        "path": "\/assets\/app-5b0d022b8ead32f09dfb0358615bdcd0.js",
         "type": "js"
+    },
+    "\/assets\/styles\/app.css": {
+        "path": "\/assets\/styles\/app-bbdf055ea526911a27abfbd4e6203fd8.css",
+        "type": "css"
     },
     "lightbox": {
         "path": "\/assets\/lightbox-b139591b7eaaff56f4e805802d9dad21.js",
@@ -11,16 +15,12 @@
         "path": "\/assets\/vendor\/@hotwired\/stimulus\/stimulus.index-b5b1d00e42695b8959b4a1e94e3bc92a.js",
         "type": "js"
     },
-    "flowbite": {
-        "path": "\/assets\/vendor\/flowbite\/flowbite.index-d741c4d5a61d65b119c84d13de93e5bf.js",
-        "type": "js"
-    },
     "@popperjs\/core": {
         "path": "\/assets\/vendor\/@popperjs\/core\/core.index-ceb5b6c0f9e1d3f6c78ef733facfdcda.js",
         "type": "js"
     },
     "flowbite\/dist\/flowbite.min.css": {
-        "path": "\/assets\/vendor\/flowbite\/dist\/flowbite.min-ed2ec0eed5b8565e5ac404561d376c99.css",
+        "path": "\/assets\/vendor\/flowbite\/dist\/flowbite.min-8dc7b9df0aefdab23e2ae95803c89f95.css",
         "type": "css"
     },
     "photoswipe\/dist\/photoswipe.min.css": {
@@ -41,6 +41,14 @@
     },
     "cookieconsent": {
         "path": "\/assets\/vendor\/cookieconsent\/cookieconsent.index-92dbaf716da952229e36f3c2556cf58a.js",
+        "type": "js"
+    },
+    "flowbite": {
+        "path": "\/assets\/vendor\/flowbite\/flowbite.index-9a842f57b07d3ae6e846eb5d2db6736f.js",
+        "type": "js"
+    },
+    "flowbite-datepicker": {
+        "path": "\/assets\/vendor\/flowbite-datepicker\/flowbite-datepicker.index-a460285f4cf5b1a8f36b41b9d22b51ea.js",
         "type": "js"
     }
 }

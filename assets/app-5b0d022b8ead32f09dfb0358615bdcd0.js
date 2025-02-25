@@ -1,3 +1,5 @@
+import './styles/app.css';
+import 'flowbite/dist/flowbite.min.css';
 import 'flowbite';
 
 document.addEventListener('DOMContentLoaded', () => {

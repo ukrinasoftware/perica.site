@@ -1,4 +1,7 @@
 [
+    "\/assets\/styles\/app.css",
+    "flowbite\/dist\/flowbite.min.css",
     "flowbite",
-    "@popperjs\/core"
+    "@popperjs\/core",
+    "flowbite-datepicker"
 ]
