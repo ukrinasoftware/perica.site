@@ -1,0 +1,32 @@
+apartments:
+  - name: Apartment 1
+    floorSize: 65
+    beds:
+      - typeOfBed: Queen
+        numberOfBeds: 2
+    occupancy: 4
+    amenities:
+      - ac
+      - balcony
+      - satellite TV
+  - name: Apartment 2
+    floorSize: 65
+    beds:
+      - typeOfBed: Queen
+        nrOfBeds: 1
+      - typeOfBed: Single
+        nrOfBeds: 2
+    occupancy: 4
+    amenities:
+      - ac
+      - satellite TV
+  - name: Apartment 3
+    floorSize: 65
+    beds:
+      - typeOfBed: Queen
+        nrOfBeds: 1
+      - typeOfBed: Single
+        nrOfBeds: 2
+    occupancy: 4
+    amenities:
+      - outdoorGrill
